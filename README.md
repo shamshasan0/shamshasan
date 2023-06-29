@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shamsmoney
-- 👀 I’m interested in basketball and coding
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shams
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning html, css, and java
 
 <!---
 shamsmoney/shamsmoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
