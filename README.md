@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shams
-- 👀 I’m interested in software engineering
+- 👀 I’m a software engineer
 - 🌱 I’m currently learning javascript
 
 <!---
